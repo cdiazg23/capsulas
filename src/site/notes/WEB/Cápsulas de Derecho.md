@@ -5,11 +5,8 @@
 
 # Inicio
 
+Reglas Comunes a Todo Procedimiento
+
 [[USS/4º TRIMESTRE/REGLAS COMUNES/Proceso y Procedimiento/Resumen Apunte el Proceso y el Procedimiento\|Proceso y Procedimiento]]
 
-muestra
-
-muestra 2
-
-jgkvkjhg
 
