@@ -46,11 +46,27 @@ Utiliza el buscador para encontrar contenidos específicos.
 
 🔗 [📬 Contáctame](#) | 📚 [Recursos](#) | 🎥 [Videos](#)
 
-<div style="display: flex; justify-content: center; align-items: center; height: auto; padding: 10px;">
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
     <iframe src="https://ko-fi.com/A0A61A5RXJ/?hidefeed=true&widget=true&embed=true" 
-        height="350" width="100%" style="border:none; overflow:hidden; max-width: 300px;" 
+        height="300" width="225" style="border: none; overflow: hidden; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); border-radius: 10px;" 
         title="Support me on Ko-fi">
     </iframe>
 </div>
+
+
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+    <iframe src="https://ko-fi.com/A0A61A5RXJ/?hidefeed=true&widget=true&embed=true" 
+        height="300" width="225" style="border: none; overflow: hidden; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); border-radius: 10px;" 
+        title="Support me on Ko-fi">
+    </iframe>
+</div>
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+    <iframe src="https://ko-fi.com/A0A61A5RXJ/?hidefeed=true&widget=true&embed=true" 
+        height="300" width="225" style="border: none; overflow: hidden; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); border-radius: 10px;" 
+        title="Support me on Ko-fi">
+    </iframe>
+</div>
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;"> <iframe src="https://ko-fi.com/A0A61A5RXJ/?hidefeed=true&widget=true&embed=true" height="300" width="225" style="border: none; overflow: hidden; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); border-radius: 10px;" title="Support me on Ko-fi"> </iframe> </div>
+
 
     
