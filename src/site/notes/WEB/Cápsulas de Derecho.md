@@ -45,3 +45,12 @@ Bienvenido a **Cápsulas de Derecho**, un espacio para aprender sobre el mundo j
 Utiliza el buscador para encontrar contenidos específicos.
 
 🔗 [📬 Contáctame](#) | 📚 [Recursos](#) | 🎥 [Videos](#)
+
+<div style="display: flex; justify-content: center; align-items: center; height: auto; padding: 10px;">
+    <iframe src="https://ko-fi.com/A0A61A5RXJ/?hidefeed=true&widget=true&embed=true" 
+        height="350" width="100%" style="border:none; overflow:hidden; max-width: 300px;" 
+        title="Support me on Ko-fi">
+    </iframe>
+</div>
+
+    
