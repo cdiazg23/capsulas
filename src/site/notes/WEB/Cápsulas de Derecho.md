@@ -3,21 +3,30 @@
 ---
 
 
-# Inicio
+# Cápsulas de Derecho 📚⚖️
 
-## <font color="#245bdb">Derecho Civil</font>
+Bienvenido a Cápsulas de Derecho, un espacio para aprender sobre Derecho de forma clara y concisa.
 
+---
 
-### <font color="#c00000">Teoría de la Ley</font>
+## 📌 Categorías Principales
 
-### <font color="#c00000">Acto Jurídico</font>
+- [📖 Introducción al Derecho](Introducción al Derecho)
+- [⚖️ Teoría de la Ley](Teoría de la Ley)
+- [🏛️ Derecho Civil](Derecho Civil)
+- [⚖️ Derecho Procesal](Derecho Procesal)
+- [💼 Derecho del Trabajo](Derecho del Trabajo)
+- [🚔 Derecho Penal](Derecho Penal)
+- [📜 Derecho Comercial](Derecho Comercial)
 
-### <font color="#c00000">Bienes</font>
+---
 
+## 📝 Últimas Publicaciones
 
-## <font color="#245bdb">Derecho Procesal</font>
+- [[Nota reciente 1\|Nota reciente 1]]
+- [[Nota reciente 2\|Nota reciente 2]]
+- [[Nota reciente 3\|Nota reciente 3]]
 
-### <font color="#c00000">Reglas Comunes a Todo Procedimiento</font>
 
 [[USS/4º TRIMESTRE/REGLAS COMUNES/Proceso y Procedimiento/Resumen Apunte el Proceso y el Procedimiento\|Proceso y Procedimiento]]
 
