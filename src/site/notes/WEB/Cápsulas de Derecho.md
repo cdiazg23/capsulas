@@ -5,18 +5,6 @@
 # ⚖️ Cápsulas de Derecho
 
 Bienvenido a **Cápsulas de Derecho**, un espacio para aprender sobre el mundo jurídico de manera clara y estructurada. Explora las secciones y descubre contenido actualizado sobre diversas áreas del Derecho. 📚✨
-
----
-```tabs
-
-tab: |Introducción al Derecho
-intro
-tab: |Teoria de la Ley
-Civil 1
-tab: |Civil
-Derecho Civil
-```
-
 ## 📌 Categorías Principales
 
 📖 **[Introducción al Derecho](Introducción al Derecho)**  
